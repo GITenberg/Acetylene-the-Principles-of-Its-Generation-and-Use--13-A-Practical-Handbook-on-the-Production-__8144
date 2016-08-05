@@ -1,0 +1,29 @@
+_repo: Acetylene-the-Principles-of-Its-Generation-and-Use--13-A-Practical-Handbook-on-the-Production-__8144
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Leeds, F. H. (Frank Henley)
+    alias: Leeds, Frank Henley
+    gutenberg_agent_id: '4520'
+    url: http://www.gutenberg.org/2009/agents/4520
+  - agent_name: Butterfield, W. J. Atkinson (William John Atkinson)
+    alias: Butterfield, William John Atkinson
+    gutenberg_agent_id: '4521'
+    url: http://www.gutenberg.org/2009/agents/4521
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Acetylene'
+- !lcc 'TP'
+- GITenberg
+title: "Acetylene, the Principles of Its Generation and Use\r\nA Practical Handbook\
+  \ on the Production, Purification, and Subsequent Treatment of Acetylene for the\
+  \ Development of Light, Heat, and Power"
+url: http://www.gutenberg.org/ebooks/8144
